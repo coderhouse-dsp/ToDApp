@@ -1,8 +1,3 @@
 Flask
-<<<<<<< HEAD
-pyodbc
-gunicorn
-=======
 SQLAlchemy
 pyodbc
->>>>>>> 1551782 (first commit)
